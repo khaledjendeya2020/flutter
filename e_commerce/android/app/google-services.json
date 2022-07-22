@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765415028293",
+    "project_id": "khaled-e0233",
+    "storage_bucket": "khaled-e0233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765415028293:android:20e77c9e0950506170d52c",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765415028293-jgjob5avgjqvvfh5ka0suhjsvqghd0pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEPUmCt-_gRAikKMjPtSUweQPCxmCcGlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765415028293-jgjob5avgjqvvfh5ka0suhjsvqghd0pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1098031922573",
+    "project_id": "wedad-879c6",
+    "storage_bucket": "wedad-879c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098031922573:android:9eb605fdf79410726291c4",
+        "android_client_info": {
+          "package_name": "com.example.firs_fire_base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098031922573-g72cetcjo5v6g5oiogq64c4etrpd07r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt7h72LyrAPGrhZtGzuJtnlTcaybpHFi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098031922573-g72cetcjo5v6g5oiogq64c4etrpd07r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
